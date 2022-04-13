@@ -40,6 +40,7 @@ public class Health : MonoBehaviour
         {
             _isDead = true;
             _animator.SetTrigger("die");
+            _playerController.enabled=false;
         }
     }
 

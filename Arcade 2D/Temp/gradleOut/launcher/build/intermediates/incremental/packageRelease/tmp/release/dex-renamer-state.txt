@@ -1,0 +1,4 @@
+#Wed Apr 13 10:53:03 EEST 2022
+base.0=/Users/konstantinsamborik/Documents/GitHub/Arcade-2D/Arcade 2D/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
